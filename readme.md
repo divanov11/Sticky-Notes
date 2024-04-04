@@ -2,8 +2,8 @@
 
 Drag and drop sticky notes app built with vanilla Javascript (frontend) and Appwrite (backend)
 
-<video src="assets/Notes App Demo.mp4" controls="controls" style="max-width: 730px;">
-</video>
+
+ <img src="assets/demo.gif"> 
 
 ## App Features
 
