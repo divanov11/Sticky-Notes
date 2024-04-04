@@ -1,0 +1,18 @@
+{
+  "name": "StickyNotes",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^4.4.5"
+  },
+  "dependencies": {
+    "appwrite": "^14.0.0",
+    "uuid": "^9.0.1"
+  }
+}
